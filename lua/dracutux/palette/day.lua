@@ -3,7 +3,7 @@ return {
 	base = "#eeeeff",
 	ui_base = "#ffffff",
 
-	text = "#222233",
+	text = "#444433",
 	subtle_text = "#777788",
 
 	selection = "#ddccff",
@@ -11,18 +11,18 @@ return {
 
 	comment = "#aabbee",
 
-	cyan = "#6699bb",
+	cyan = "#448899",
 	blue = "#4477cc",
 
 	green = "#33aa55",
 	teal = "#339977",
 
-	pink = "#cc66aa",
+	pink = "#bb5588",
 
 	purple = "#7744bb",
 
-	red = "#ee6666",
+	red = "#ee4444",
 
-	yellow = "#aa9944",
-	orange = "#cc7755",
+	yellow = "#778822",
+	orange = "#aa6633",
 }
